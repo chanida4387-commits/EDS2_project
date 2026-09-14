@@ -1,8 +1,8 @@
 # EDS2_project
 # About Me
-Chanida Pomsuwan
-
 Let me introduce my self
+
+Chanida Pomsuwan
 
 "This sentence is written on Hub"
 #
