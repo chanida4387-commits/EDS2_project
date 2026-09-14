@@ -3,6 +3,7 @@
 Chanida Pomsuwan
 #
 Phiyada Yumolmat
-
-# Hello World
-My name is : Pathamaphorn Phudensai
+#
+Jirakit Ponakan
+#
+Pathamaphorn Phudensai
