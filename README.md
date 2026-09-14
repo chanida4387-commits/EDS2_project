@@ -7,6 +7,8 @@ Chanida Pomsuwan
 "This sentence is written on Hub"
 #
 Phiyada Yumolmat
+
+"This sentence is written on Hub2"
 #
 Jirakit Ponakan
 #
