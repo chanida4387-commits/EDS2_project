@@ -20,3 +20,21 @@ Pathamaphorn Phudensai
 Kopkaew Khonndee
 
 "This sentence is written on Hub5"
+
+
+## create python enviroment
+`python3 -m venv .venv`
+-create the new python enviroment named `.venv`
+The first python script file:
+``` python
+import pandas
+print('Hello World!')
+print('This is a sample Python application.')
+df = pandas.DataFrame({'A': [1,2,3],'B': [4,5,6]})
+print('My first DataFrame:')
+print(df)
+```
+
+ - Install streamlit wed application package `pip install streamlit`
+- Run strealit script file `streamlit run <app-name.py>`
+- Stop web application `Ctl i`
